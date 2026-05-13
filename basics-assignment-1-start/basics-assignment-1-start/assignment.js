@@ -12,3 +12,4 @@ result = result / 2;
 
 alert(val1);
 alert(result);
+/**/
